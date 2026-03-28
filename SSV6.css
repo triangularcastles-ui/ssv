@@ -1,0 +1,5 @@
+.headerbar{background-image: url('https://images2.imgbox.com/88/98/Lk3wXXPJ_o.png')!important;}
+body, html{
+    background: linear-gradient(#00000094, transparent 90%), url(https://i.imgur.com/haxzVL1.jpeg), black!important;
+    background-size: cover, cover!important;
+  background-attachment: fixed!important; background-position: center center!important;} 
